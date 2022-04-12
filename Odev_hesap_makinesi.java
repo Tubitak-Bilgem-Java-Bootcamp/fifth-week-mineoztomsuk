@@ -1,7 +1,3 @@
-/*
-  Pratik
-  Java ile kullanıcın seçtiği işlemleri yapan hesap makinesi yapıyoruz.
-*/
 
 import java.util.Scanner;
 
